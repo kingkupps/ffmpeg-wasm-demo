@@ -1,0 +1,12 @@
+{
+  "name": "ffmpeg-web-demo",
+  "version": "1.0.0",
+  "private": true,
+  "devDependencies": {
+    "prettier": "^3.3.3"
+  },
+  "scripts": {
+    "build": "bash build.sh",
+    "start": "cd backend && npm run start"
+  }
+}
